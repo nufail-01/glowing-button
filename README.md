@@ -27,3 +27,9 @@ It was built to practice hover effects, transitions, and glowing UI designs.
 [🔗 GitHub Repository](https://github.com/nufail-01/Eduford-University)
 
 ---
+
+## 🤝 Connect with Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
+
+---
