@@ -1,16 +1,22 @@
-# Glowing Button 🔥
+# Glowing Button ✨
 
-This project is part of **Frontend Development Practice**.  
-It shows how to create a **glowing button effect** using only **HTML** and **CSS**.
-
----
-
-## 🎯 Purpose
-- To practice **basic HTML structure**  
-- To apply **CSS styling and animations**  
-- To understand **hover effects and box-shadow**  
+This is a small practice project where I created a glowing button effect using **HTML** and **CSS**.  
+It was built to practice hover effects, transitions, and glowing UI designs.
 
 ---
 
+## 🔥 Features
+- Smooth hover transition  
+- Modern glowing effect  
+- Easy to customize  
 
+---
 
+## 🎨 Preview
+*(Add a screenshot or GIF here if you have one)*
+
+---
+
+## 🛠️ Technologies Used
+- HTML  
+- CSS
