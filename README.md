@@ -4,7 +4,7 @@ This is a small practice project where I created a glowing button effect using *
 It was built to practice hover effects, transitions, and glowing UI designs.
 
 ---
-## 🌐 Live Demo
+## 🎨 Preview
 
 [![Website Preview](assets/images/contact.png)](https://nufail-01.github.io/Contact-form/)
 
