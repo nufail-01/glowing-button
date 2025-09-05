@@ -21,3 +21,9 @@ It was built to practice hover effects, transitions, and glowing UI designs.
 ## 🛠️ Technologies Used
 - HTML  
 - CSS
+
+## 📂 Source Code
+
+[🔗 GitHub Repository](https://github.com/nufail-01/Eduford-University)
+
+---
