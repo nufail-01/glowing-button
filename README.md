@@ -26,4 +26,4 @@ It shows how to create a **glowing button effect** using only **HTML** and **CSS
 
 **HTML**
 ```html
-<button class="glow-btn">Glowing Button</button>
+
