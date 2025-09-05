@@ -16,8 +16,6 @@ It was built to practice hover effects, transitions, and glowing UI designs.
 
 ---
 
-## 🎨 Preview
-*(Add a screenshot or GIF here if you have one)*
 
 ---
 
