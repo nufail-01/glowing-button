@@ -7,7 +7,7 @@ It was built to practice hover effects, transitions, and glowing UI designs.
 
 ## 🎨 Preview
 
-[![Website Preview](assets/images/contact.png)](https://nufail-01.github.io/Contact-form/)
+[![Website Preview](glowingbutton.png)](https://nufail-01.github.io/Contact-form/)
 
 ---
 
