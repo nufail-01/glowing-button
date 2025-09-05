@@ -18,7 +18,4 @@ It shows how to create a **glowing button effect** using only **HTML** and **CSS
 1. Create `index.html` and `style.css` files.  
 2. Copy the example code below.  
 3. Open `index.html` in your browser.  
-4. Hover over the button to see the glowing effect.  
-
----
 
