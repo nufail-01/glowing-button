@@ -21,6 +21,7 @@ It was built to practice hover effects, transitions, and glowing UI designs.
 ## 🛠️ Technologies Used
 - HTML  
 - CSS
+
 ---
 ## 📂 Source Code
 
