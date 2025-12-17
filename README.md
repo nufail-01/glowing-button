@@ -35,4 +35,3 @@ It was built to practice hover effects, transitions, and glowing UI designs.
 🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
 
 ---
----
